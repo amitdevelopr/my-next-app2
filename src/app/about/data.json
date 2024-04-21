@@ -1,0 +1,26 @@
+{
+"students":[
+{
+  "heading" : "student 1",
+  "content" : "This is student 1 info."
+},
+{
+  "heading" : "student 2",
+  "content" : "This is student 2 info."
+},
+{
+  "heading" : "student 3",
+  "content" : "This is student 3 info."
+}
+],
+"players":[
+  {
+    "heading" : "Sachin",
+    "content" : "this is content about Sachin."
+  },
+  {
+    "heading" : "Dhoni",
+    "content" : "this is content about Dhoni."
+  }
+]
+}

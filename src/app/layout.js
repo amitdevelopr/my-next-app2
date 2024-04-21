@@ -4,6 +4,7 @@ import "bootstrap/dist/css/bootstrap.css"
 import Header from "@/Header";
 import Footer from "@/Footer";
 import Menu from "@/Menu";
+import {Accordion}  from "react-bootstrap";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
